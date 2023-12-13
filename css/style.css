@@ -26,7 +26,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 58%;
     overflow-x: hidden;
 }
 
@@ -280,7 +280,7 @@ section {
 .home-img img {
     position: absolute;
     bottom: 0;
-    top: 197px;
+    top: 200px;
     right: 30px;
     width: 22%;
     pointer-events: none;
